@@ -1,0 +1,4 @@
+Django
+libscrc
+psycopg2
+# passlib
